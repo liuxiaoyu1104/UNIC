@@ -17,7 +17,7 @@ we present a joint framework for both unbounded recommendation of camera view an
 We recreate an unbounded image composition dataset based on GAICD and adopts a cDETR-like encoder-decoder to train UNIC.
 Before train or test, you need to download the GIAC dataset and generate annotations in the format of the COCO dataset.
 1. GAIC Dataset: Visit [this page](https://drive.google.com/file/d/1tDdQqDe8dMoMIVi9Z0WWI5vtRViy01nR/view) to download the GAIC Dataset.
-2. Annotations in format of COCO: Visit [this page](https://flame.is.tue.mpg.de/download.php) to download `instances_train.json` and `instances_test.json` and place them in the `GAIC/annotations` directory.
+2. Annotations in format of COCO: Visit [this page](https://drive.google.com/drive/folders/1xkZFXOTV4zebm660Dgprl_yaKxWAHh0H?usp=drive_link) to download `instances_train.json` and `instances_test.json` and place them in the `GAIC/annotations` directory.
 3. init_view: The file for initial views has been placed in the `init_view` directory
 
 
